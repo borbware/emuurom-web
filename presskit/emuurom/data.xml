@@ -5,11 +5,11 @@
   <title>EMUUROM</title>
   <website>https://www.emuurom.com</website>
 
-  <!-- You can also add an URL to a request page for this product. A button will be displayed on the page. -->
+  <!-- You can also add an URL to a request page for this product. A button will be displayed on the page. 
   <press-copy-request>
     http://pizzaburger.studio/mysupergame/request/
   </press-copy-request>
-
+  -->
   <!--
     If you have one or many publishers for this product, you can add them here.
     The `<based-in>` and `<website>` tags are optional.
@@ -111,7 +111,7 @@
     You can see an example of the `<histories>` block in the company page.
   -->
   <history>
-    EMUUROM is the first game on Steam created with the tiny TIC-80 fantasy console. It started its life as a jam game for Fantasy Console jam 3 in early 2018. The first demo was released on Itch.io in early 2020, and later that year it was a part of the Bundle for Racial Justice and Equality. A new, polished demo was released on Steam in August 2021, and it participated in the Steam Next Fest in October.
+    EMUUROM is the first game on Steam created with the TIC-80 fantasy console. It started its life as a jam game for Fantasy Console jam 3 in early 2018. The first demo was released on Itch.io in early 2020, and later that year it was a part of the Bundle for Racial Justice and Equality. A new, polished demo was released on Steam in August 2021, and it participated in the Steam Next Fest in October.
   </history>
 
   <!-- ## Features -->
