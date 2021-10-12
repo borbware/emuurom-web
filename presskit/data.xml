@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Borbware</title>
+  <based-in>Oulu, Finland</based-in>
+  <founding-date>2020</founding-date>
+  <website>https://www.emuurom.com</website>
+  <press-contact>
+    borbware@gmail.com
+    <!-- Mail address -->
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+  <socials>
+    <social>
+      <name>
+        Twitter (@borbware)
+      </name>
+      <link>
+        https://www.twitter.com/borbware
+      </link>
+    </social>
+  </socials>
+
+  <description>
+    I am Borb. I make dreamy little broken worlds.
+  </description>
+
+  <!-- Choose between a single block: -->
+  <history>
+    Borbware was founded in 2020, and is currently developing its first game EMUUROM.
+  </history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <trailers>
+    <trailer>
+      <name>
+        EMUUROM trailer
+      </name>
+      <youtube>
+        -2ovAcsnazQ
+      </youtube>
+    </trailer>
+  </trailers>
+  <!--
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+  -->
+
+  <additionals>
+    <additional>
+      <title>
+        EMUUROM Steam page
+      </title>
+      <description>
+        Free demo available!
+      </description>
+      <link>
+        https://store.steampowered.com/app/1634360/EMUUROM/
+      </link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person>
+        Borb
+      </person>
+      <role>
+        Code, Graphics, Design, Music
+      </role>
+
+      <!-- Optional: -->
+      <!--<website></website>-->
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>
+        Inquiries
+      </name>
+      <mail>
+        borbware@gmail.com
+      </mail>
+    </contact>
+    <contact>
+      <name>
+        Twitter
+      </name>
+      <link>
+        https://www.twitter.com/borbware
+      </link>
+    </contact>
+  </contacts>
+</company>
