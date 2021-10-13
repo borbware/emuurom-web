@@ -23,6 +23,7 @@ body {
 }
 .parallaxWrapper {
 	height: 56vw;
+	margin-top: 72px;
 	position: relative;
 	overflow: hidden;
 }
@@ -74,7 +75,12 @@ body {
 }
 
 .navbar {
-	text-align: center;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
 }
 
 .navbar ul {
