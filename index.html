@@ -29,14 +29,16 @@
 		</div>
 		<div class="parallaxWrapper">
 			<div class="pos stars"></div>
-			<div class="pos comet"></div>
-			<div class="pos pilvitaka"></div>
-			<div class="pos maire"></div>
-			<div class="pos pilvietu"></div>
-			<div class="pos logo"></div>
+			<div class="pos comet" id="comet" data-0="background-position: 0px 600px;" data-1500="background-position: 500px 900px;"></div>
+			<div class="pos pilvitaka" id="pilvitaka" data-0="background-position: 0px 550px;" data-1000="background-position: 150px 600px;"></div>
+			<div class="pos maire" id="maire" data-0="background-position: 50% 0px;" data-1000="background-position: 50% -200px;"></div>
+			<div class="pos pilvietu" id="pilvietu" data-0="background-position: 100px 700px;" data-1500="background-position: -300px 600px"></div>
+			<div class="pos logo" id="logo" data-0="background-position: 50% 0px;" data-1000="background-position: 50% -400px;"></div>
 		</div>
 		<!--<img class="headImg" src="presskit/emuurom/images/header.png"/>-->
 		<div class="content">
+			<div data-0="background-color:rgb(0,0,255);" data-1000="background-color:rgb(255,0,0);">WOOOT</div>
+
 			<br>
 			<br>
 			<br>
@@ -227,5 +229,9 @@
 				</ul>
 			</ul>
 		</div>
+		<script type="text/javascript" src="js/skrollr.min.js"></script>
+		<script type="text/javascript">
+			var s = skrollr.init();
+		</script>
 	</body>
 </html>
