@@ -22,7 +22,6 @@ body {
 	background-size: cover;
 }
 .parallaxWrapper {
-	width: 100vw;
 	height: 60vw;
 	position: relative;
 	overflow: hidden;
