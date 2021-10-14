@@ -32,6 +32,22 @@ body {
 	width: 100vw;
 	height: 60vw;
 }
+
+
+
+.parallaxContainer {
+	width: 100%;
+	height: 56vw;
+	margin-top: 72px;
+	position: relative;
+	overflow: hidden;
+}
+.layer {
+	display: block;
+	position: absolute;
+	width: 100vw;
+	height: 60vw;
+}
 .logo {
 	background: url(images/logo.png) no-repeat top center;
 	background-size: contain;
