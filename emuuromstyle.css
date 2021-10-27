@@ -11,6 +11,91 @@
 	font-weight: normal;
 	font-style: normal;
 }
+@media (min-width: 10px) {
+	:root {
+		--size-divisor: 6;
+		--size-divisor2: 2.5;
+	}
+}
+@media (min-width: 250px) {
+	:root {
+		--size-divisor: 4;
+		--size-divisor2: 2.3;
+	}
+}
+@media (min-width: 330px) {
+	:root {
+		--size-divisor: 3;
+		--size-divisor2: 2.25;
+	}
+}
+@media (min-width: 470px) {
+	:root {
+		--size-divisor: 2.25;
+		--size-divisor2: 2;
+	}
+}
+@media (min-width: 530px) {
+	:root {
+		--size-divisor: 2;
+		--size-divisor2: 1.75;
+	}
+}
+@media (min-width: 630px) {
+	:root {
+		--size-divisor: 1.5;
+		--size-divisor2: 1.5;
+	}
+}
+@media (min-width: 768px) {
+	:root {
+		--size-divisor: 1.25;
+		--size-divisor2: 1.25;
+	}
+}
+@media (min-width: 992px) { 
+	:root {
+		--size-divisor: 1;
+		--size-divisor2: 1;
+	}
+}
+
+
+.navbar {
+	white-space: nowrap;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.navbar ul {
+	/* padding: calc(0.7em / var(--size-divisor)); */
+	padding: calc(0.7em / var(--size-divisor));
+	list-style-type: none;
+	margin: 0;
+	background-color: #deeed6;
+}
+.navbar li {
+	font-size: calc(1.5em / var(--size-divisor));
+	margin: 0.5em;
+	display: inline;
+	float: center;
+}
+.navbar a, 
+.navbar a:visited
+{
+	text-decoration: none;
+	color: #d04648;
+}
+.navbar a:hover
+{
+	color: #597dce;
+}
+
+
 
 body {
 	background-color: #140c1c;
@@ -21,22 +106,11 @@ body {
 	/*background: url(images/stars.png) center center;*/
 	background-size: cover;
 }
-.parallaxWrapper {
-	height: 56vw;
-	margin-top: 72px;
-	position: relative;
-	overflow: hidden;
-}
-.pos {
-	position: absolute;
-	width: 100vw;
-	height: 60vw;
-}
 
 .parallaxContainer {
 	width: 100%;
 	height: 56vw;
-	margin-top: 72px;
+	margin-top: calc(2.9em / var(--size-divisor2));
 	position: relative;
 	overflow: hidden;
 }
@@ -88,38 +162,6 @@ body {
 	image-rendering: pixelated; /* Chrome 41+ and Opera 26+ */
 }
 
-.navbar {
-    text-align: center;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 1;
-}
-
-.navbar ul {
-	padding: 20px;
-	list-style-type: none;
-	margin: 0;
-	background-color: #deeed6;
-}
-.navbar li {
-	margin: 40px;
-	display: inline;
-	float: center;
-}
-.navbar a, 
-.navbar a:visited
-{
-	text-decoration: none;
-	color: #d04648;
-}
-.navbar a:hover
-{
-	color: #597dce;
-}
-
-
 
 .content {
 	margin: auto;
@@ -143,14 +185,14 @@ body {
 .content h1 {
 	text-align: center;
 	color:#deeed6;
-	font-size:   72px;
+	font-size: calc(3.25em / var(--size-divisor));
 	font-weight: normal;
 }
 
 .content h2 {
 	text-align: center;
 	color: #8595a1;
-	font-size:   52px;
+	font-size: calc(2.125em / var(--size-divisor));
 	font-weight: normal;
 	margin-top: 120px;
 	margin-bottom: 60px;
@@ -232,37 +274,18 @@ body {
 
 .iframe-container {
 	position: relative;
-	overflow: hidden;
-	height: 260px;
+	padding-bottom: 56.25%; /*16:9*/
+	height: 0;
 }
 
-iframe {
-	position: absolute;
-	top: 0%;
-
-	-moz-transform: scale(1.5);
-	-moz-transform-origin: 0 0;
-	-o-transform: scale(1.5);
-	-o-transform-origin: 0 0;
-	-webkit-transform: scale(1.5);
-	-webkit-transform-origin: 0 0;
-}
-
-#youtube {
-	width: 1120px;
-	height: 520px;
-}
-
-/*
-.iframebask {
+.iframe-container iframe {
 	position: absolute;
 	top: 0;
 	left: 0;
 	width: 100%;
 	height: 100%;
-	border: 0;
 }
-*/
+
 /*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 iframe { zoom: 2;  }

@@ -101,7 +101,7 @@ function updateElements() {
 
 function loop() {
   _scrollOffset = window.pageYOffset || window.scrollTop || 0;
-  console.log(_scrollOffset);
+  //console.log(_scrollOffset);
   _scrollPercent = _scrollOffset/_scrollHeight || 0;
   rotateLetters();
   updateElements();
