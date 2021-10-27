@@ -57,9 +57,11 @@ function initMovingElements() {
 }
 
 function resize() {
+  var box = document.querySelector('.parallaxContainer');
   _width = window.innerWidth;
-  _height = window.innerHeight;
-  _scrollHeight = document.body.scrollHeight; //  _containerHeight-_height;
+  _height = window.innerWidth;
+  _scrollHeight = document.body.scrollHeight; // box.offsetHeight * 400; //  _containerHeight-_height;
+  //console.log(`box: ${box.offsetHeight}, scroll: ${_scrollHeight}, document.scrl: ${document.body.scrollHeight}`);
 }
 
 function rotateLetters() {
@@ -73,13 +75,13 @@ function updateElements() {
     var p = _positions[i];
     if(_scrollPercent <= p.start.percent) {
       p.target.x = p.start.x*_width;
-      p.target.y = p.start.y*_containerHeight;
+      p.target.y = p.start.y*_height;
     } else if(_scrollPercent >= p.end.percent) {
       p.target.x = p.end.x*_width;
-      p.target.y = p.end.y*_containerHeight;
+      p.target.y = p.end.y*_height;
     } else {
       p.target.x = p.start.x*_width + (p.diff.x*(_scrollPercent-p.start.percent)/p.diff.percent*_width);
-      p.target.y = p.start.y*_containerHeight + (p.diff.y*(_scrollPercent-p.start.percent)/p.diff.percent*_containerHeight);
+      p.target.y = p.start.y*_height + (p.diff.y*(_scrollPercent-p.start.percent)/p.diff.percent*_height);
     }
     
     // lerp
@@ -98,7 +100,8 @@ function updateElements() {
 
 
 function loop() {
-  _scrollOffset = window.pageYOffset || window.scrollTop;
+  _scrollOffset = window.pageYOffset || window.scrollTop || 0;
+  console.log(_scrollOffset);
   _scrollPercent = _scrollOffset/_scrollHeight || 0;
   rotateLetters();
   updateElements();
