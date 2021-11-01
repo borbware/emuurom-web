@@ -1,5 +1,5 @@
 url: "https://emuurom.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 title: "" # the name of your site, e.g. ACME Corp.
 lsi: false
 safe: true
