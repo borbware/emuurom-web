@@ -1,13 +1,13 @@
 @font-face {
 	font-family: 'unscii16';
-	src: url('unscii-16-webfont.ttf') format('truetype');
+	src: url('../fonts/unscii-16-webfont.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'unsciilight';
-	src: url('unscii-16-light.ttf') format('truetype');
+	src: url('../fonts/unscii-16-light.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
