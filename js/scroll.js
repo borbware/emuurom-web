@@ -41,9 +41,10 @@ var _positions = [
     }
   },
 ]
-
-resize();
-initMovingElements();
+document.addEventListener("DOMContentLoaded", function(event) { 
+  resize();
+  initMovingElements();
+});
 
 function initMovingElements() {
   for (var i = 0; i < _positions.length; i++) {
