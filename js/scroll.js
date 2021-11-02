@@ -1,5 +1,8 @@
 // https://codepen.io/rachsmith/post/how-to-move-elements-on-scroll-in-a-way-that-doesn-t-suck-too-bad
 // thanks, rachel smith. :>
+
+console.log("scroll.js");
+
 var _containerHeight = 2000;
 var _width, _height, _scrollHeight;
 var letters = document.getElementsByTagName('span');
