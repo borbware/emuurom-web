@@ -1,7 +1,7 @@
 url: "https://emuurom.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 title: "" # the name of your site, e.g. ACME Corp.
-source: "/docs"
+source: "/"
 lsi: false
 safe: true
 incremental: false
