@@ -55,6 +55,7 @@ function initMovingElements() {
     _positions[i].target = {};
     _positions[i].current = {};
     var el = document.getElementsByClassName('layer '+_positions[i].name)[0];
+    console.log(el.className);
     _movingElements.push(el);
   }
 }
