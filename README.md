@@ -9,18 +9,7 @@ npm install -g presskit
 Build presskit:
 
 ```
-cd presskit-data
-presskit build
-rm -r ..\presskit
-mv build ..\presskit
-```
-
-Add to `index.html` and `emuurom\index.html`:
-
-```---
-title: Presskit
-layout: default
----
+.\buildpresskit.ps1
 ```
 
 ## Running Jekyll on WSL
