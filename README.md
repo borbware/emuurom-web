@@ -12,6 +12,25 @@ Build presskit:
 .\buildpresskit.ps1
 ```
 
+## Running Jekyll on Windows
+
+Install Ruby, then
+
+```
+gem install jekyll bundler
+```
+
+Create new project with
+
+```
+jekyll new projectname
+cd projectname
+```
+Run the project
+```
+bundle exec jekyll serve
+```
+
 ## Running Jekyll on WSL
 
 ```
