@@ -135,36 +135,36 @@ body {
 	margin: auto;
 }
 
-.gifcontainer {
-	width: 90%;
-	
-	margin: auto;
-}
-
 .titlecontainer {
 	max-width: 45em;
 	margin: auto;
 }
-
 .title {
 	padding-top: 1em;
 	width: 100%;
 	padding-bottom: 0em;
 }
+
+.gifcontainer {
+	margin: auto;
+	width: 95%;
+}
 .gifcontainer .gif {
 	border-color: #442434;
 	border-style: solid;
 	border-width: 0.1em;
-	padding-top: 2em;
-	width: 100%;
+	margin-bottom: 1em;
+	margin-top: 2em;
+	width: 97%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 .gifcontainer ul {
-	width: 80%;
 	margin: auto;
-	margin-bottom: 2em;
 }
 .gifcontainer ul li {
-	font-size: 0.7em;
+	font-size: 0.85em;
 	line-height: 1.2em;
 	display: list-item;
 	list-style-type: circle;
