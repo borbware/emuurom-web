@@ -113,8 +113,8 @@ body {
 }
 
 .blurb {
-	padding-top: 1em;
-	padding-bottom: 1em;
+	padding-top: 5vw;
+	padding-bottom: 5vw;
 }
 
 .bigcontent {
@@ -128,8 +128,8 @@ body {
 	width: 90%;
 	max-width: 45em;
 	margin: auto;
-	margin-top: 5vw;
-	margin-bottom: 5vw;
+	margin-top: 2em;
+	margin-bottom: 2em;
 }
 .bigcontent .runecontainer .rune {
 	width: 100%;
@@ -137,6 +137,7 @@ body {
 }
 
 .bigcontent .titlecontainer {
+	width: 89.6%;
 	max-width: 45em;
 	margin: auto;
 	margin-bottom: 5vw;
@@ -270,8 +271,6 @@ body {
 	color: #8595a1;
 	font-size: calc(2.125em / var(--size-divisor));
 	font-weight: normal;
-	margin-top: 0.1em;
-	margin-bottom: 0.1em;
 }
 
 .content a {
@@ -334,6 +333,8 @@ body {
 	position: relative;
 	padding-bottom: 56.25%; /*16:9*/
 	height: 0;
+	width: 95%;
+	margin: auto;
 }
 
 .iframe-container iframe {
