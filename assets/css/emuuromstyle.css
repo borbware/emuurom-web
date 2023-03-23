@@ -93,6 +93,10 @@ body {
     z-index: 1;
 }
 
+.absolute {
+    position: absolute;
+}
+
 .navbar ul {
 	/* padding: calc(0.7em / var(--size-divisor)); */
 	padding: calc(0.7em / var(--size-divisor));

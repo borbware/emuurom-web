@@ -8,9 +8,9 @@ permalink: /playtest/
 
 Playtesting EMUUROM is conducted remotely, whenever it suits you. In a nutshell, you
 
-* record a video of you playing the game
-* comment aloud your feelings
-* after it's done, send the recording to me.
+1. record a video of you playing the game
+2. comment aloud your feelings during the playthrough
+3. send the recording to me.
 
 ---
 
@@ -25,14 +25,14 @@ You will need:
 * the **development build** of EMUUROM
   * Download it at [emuurom.com/devbuild](https://www.emuurom.com/devbuild)
 
-The instructions below describe how to record your computer screen.
+The instructions below describe how to record your computer screen. If you're good to go, you can jump into the next section: [Let's get started](#lets-get-started).
 
 ---
 
 ### Windows
 
 1. Press *Win+G* to open the Xbox Game Bar.
-2. Press the microphone button to turn mic on while recording.
+2. Press the microphone button to turn the mic on while recording.
 3. Press the record button (the circle) to start recording.
    * Note: You can also use *Win+Alt+R* to start/stop recording.
 4. Press *Win+G* again to close the Xbox Game Bar.
