@@ -255,9 +255,6 @@ body {
 	margin-right: auto;
 }
 
-.content p {
-	margin-bottom: 64px;
-}
 
 .content h1 {
 	text-align: center;
@@ -356,13 +353,46 @@ body {
 	margin: 4vw;
 }
 
-.post h1 {
-	font-size: 3em;
-	text-align: left;
+.post p {
+	margin-bottom: 2em;
+	margin-top: 2em;
 }
 
-.post ul {
-	padding: 0px;
+.post strong {
+	font-weight: normal;
+	color: #6dc2ca;
+}
+
+.post em {
+	color: #d2aa99;
+}
+
+.post code {
+	color: #8595a1;
+}
+
+.post h1 {
+	font-size: 3.5em;
+	text-align: left;
+	color:#8595a1;
+}
+
+.post h2 {
+	text-align: left;
+	color:#8595a1;
+	font-size: 2.5em;
+}
+
+.post h3 {
+	font-weight: normal;
+	color:#8595a1;
+	font-size: 1.5em;
+}
+
+.post>ul {
+	padding-left: 1em;
+	margin-bottom: 2em;
+	margin-top: 2em;
 }
 
 .post .language-plaintext {
