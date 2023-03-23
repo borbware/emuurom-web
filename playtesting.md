@@ -88,13 +88,14 @@ And now, you're good to go!
   * It's not your fault if you get lost or confused at any point, but rather the game's!
 * You are not being tested - *you* are testing *the game*.
 * You don't need to complete the game on one sitting. Only play for as long as you feel like!
-  * In fact, the time you want to take to play the game is meaningful information.
+  * In fact, the length of a play session is meaningful information.
+
+---
 
 ## After it's done
 
 After every recording session, send the recorded video to me. I've sent you a link to a shared Google Drive folder, where you can upload the file.
 
-***GDPR notice:*** Because I use Google Drive, the video is shared with Google - but not with any other party. The video will only be used for playtesting purposes. I will analyse the video and make adjustments to the game based on it. If you wish to request a copy of the data and/or get it deleted, send an email to:
+***GDPR notice:*** Because I use Google Drive, the video is shared with Google - but not with any other party. The video will only be used for playtesting purposes. If you wish to request a copy of the data and/or get it deleted, send an email to:
 
 ![](/images/email.png)
-
