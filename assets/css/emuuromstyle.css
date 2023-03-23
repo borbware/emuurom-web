@@ -243,7 +243,7 @@ body {
 
 .content {
 	margin: auto;
-	max-width: 900px;
+	max-width: 40em;
 }
 
 .headImg {
@@ -343,6 +343,31 @@ body {
 	left: 0;
 	width: 100%;
 	height: 100%;
+}
+
+/* POSTS */
+
+.post-container {
+	font-size: 1.8em;
+	margin-top: calc(7em / var(--size-divisor2)) ;
+}
+
+.post {
+	margin: 4vw;
+}
+
+.post h1 {
+	font-size: 3em;
+	text-align: left;
+}
+
+.post ul {
+	padding: 0px;
+}
+
+.post .language-plaintext {
+	font-size: 1em;
+	word-break: break-all;
 }
 
 /*
