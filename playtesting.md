@@ -82,3 +82,12 @@ And now, you're good to go!
 ## Tips for playtesting
 
 [WIP]
+
+## After it's done
+
+Send the video to me! Two options:
+
+  * Upload it to cloud storage, and send the link to the file via email.
+  * Send the file directly in [Telegram](https://t.me/borbware).
+
+[WIP]
