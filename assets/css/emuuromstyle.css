@@ -73,6 +73,11 @@ body {
 	font-family: unscii16 !important;
 	font-size:   32px;
 }
+.unsciilight {
+	font-family: unsciilight !important;
+	font-size:   32px;
+}
+
 .page.grid{
 	margin-top: calc(5em / var(--size-divisor2)) !important;
 }
@@ -243,7 +248,10 @@ body {
 
 .content {
 	margin: auto;
-	max-width: 40em;
+	max-width: 28em;
+}
+.wide {
+	max-width: 32em;
 }
 
 .headImg {
@@ -261,6 +269,7 @@ body {
 	color:#deeed6;
 	font-size: calc(3.25em / var(--size-divisor));
 	font-weight: normal;
+	font-family: unscii16;
 }
 
 .content h2 {
@@ -268,6 +277,7 @@ body {
 	color: #8595a1;
 	font-size: calc(2.125em / var(--size-divisor));
 	font-weight: normal;
+	font-family: unscii16;
 }
 
 .content a {
@@ -345,12 +355,13 @@ body {
 /* POSTS */
 
 .post-container {
-	font-size: 1.8em;
-	margin-top: calc(7em / var(--size-divisor2)) ;
+	margin-top: calc(5em / var(--size-divisor2)) ;
 }
 
 .post {
 	margin: 4vw;
+	font-size: 0.6em;
+	font-family: unsciilight;
 }
 
 .post p {
@@ -359,6 +370,7 @@ body {
 }
 
 .post strong {
+	font-family: unscii16;
 	font-weight: normal;
 	color: #6dc2ca;
 }
@@ -368,25 +380,29 @@ body {
 }
 
 .post code {
+	font-family: unsciilight;
 	color: #8595a1;
 }
 
 .post h1 {
-	font-size: 3.5em;
+	font-family: unscii16;
+	font-size: 3em;
 	text-align: left;
 	color:#8595a1;
 }
 
 .post h2 {
+	font-family: unscii16;
 	text-align: left;
 	color:#8595a1;
-	font-size: 2.5em;
+	font-size: 2.2em;
 }
 
 .post h3 {
+	font-family: unscii16;
 	font-weight: normal;
 	color:#8595a1;
-	font-size: 1.5em;
+	font-size: 1.2em;
 }
 
 .post>ul {

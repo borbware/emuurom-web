@@ -14,5 +14,6 @@ highlighter: rouge
 gist:
   noscript: false
 kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
   math_engine: mathjax
   syntax_highlighter: rouge

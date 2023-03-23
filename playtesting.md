@@ -4,7 +4,6 @@ layout: post
 permalink: /playtest/
 ---
 
-
 # Playtesting EMUUROM
 
 Playtesting EMUUROM is conducted remotely, whenever it suits you. In a nutshell, you
@@ -81,13 +80,21 @@ And now, you're good to go!
 
 ## Tips for playtesting
 
-[WIP]
+* Aim to articulate your thoughts continuously! When in doubt, try to answer these three questions:
+  1. What do you see on screen?
+  2. How do you interpret it?
+  3. How does it make you feel?
+* Remember, the game is still incomplete
+  * It's not your fault if you get lost or confused at any point, but rather the game's!
+* You are not being tested - *you* are testing *the game*.
+* You don't need to complete the game on one sitting. Only play for as long as you feel like!
+  * In fact, the time you want to take to play the game is meaningful information.
 
 ## After it's done
 
-Send the video to me! Two options:
+After every recording session, send the recorded video to me. I've sent you a link to a shared Google Drive folder, where you can upload the file.
 
-  * Upload it to cloud storage, and send the link to the file via email.
-  * Send the file directly in [Telegram](https://t.me/borbware).
+***GDPR notice:*** Because I use Google Drive, the video is shared with Google - but not with any other party. The video will only be used for playtesting purposes. I will analyse the video and make adjustments to the game based on it. If you wish to request a copy of the data and/or get it deleted, send an email to:
 
-[WIP]
+![](/images/email.png)
+
