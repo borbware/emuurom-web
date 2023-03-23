@@ -79,17 +79,20 @@ And you're good to go!
 
 ---
 
-## Tips for playtesting
+## The playtest session
+
+Start the game, and play for as long as you like, in a playstyle that suits you. Take as many breaks from recording as you need - you don't have to run from start to finish on one sitting.
+
+The game will tell you when there's nothing more to be found, but you can stop playtesting earlier if you feel like it. Also, if you're completely stuck and have no idea where to go next, you can contact me for assistance.
+
+Some general tips for making the most out of the playtesting:
 
 * Aim to articulate your thoughts continuously! When in doubt, try to answer these three questions:
   1. What do you see on screen?
   2. How do you interpret it?
   3. How does it make you feel?
-* Remember, the game is still incomplete
-  * It's not your fault if you get lost or confused at any point, but rather the game's!
-* You are not being tested - *you* are testing *the game*.
-* You don't need to complete the game on one sitting. Only play for as long as you feel like!
-  * In fact, the length of a play session is meaningful information.
+* Remember: the game is still very incomplete. It's not your fault if you get lost or confused at any point, but rather the game designer's!
+* You are not the one being tested - *you* are testing *the game*.
 
 ---
 
