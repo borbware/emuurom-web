@@ -65,11 +65,11 @@ If you need assistance, send me a message.
 
 To make sure your recording setup works, open EMUUROM and take a short test recording of the CONFIG screen that appears when you open the game.
 
-* Press either 
+1. Press either 
   * the directional pad on the controller 
   * the arrow keys on the keyboard
-* Say something to the mic.
-* Confirm that the record contains
+2. Say something to the mic.
+3. Stop recording and confirm that the recorded video features
   * a fully visible game screen 
   * your voice
   * the sound played when the buttons were pressed
