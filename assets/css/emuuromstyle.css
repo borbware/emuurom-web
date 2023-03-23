@@ -15,48 +15,56 @@
 	:root {
 		--size-divisor: 6;
 		--size-divisor2: 2.5;
+		--size-divisor3: 2.5;
 	}
 }
 @media (min-width: 250px) {
 	:root {
 		--size-divisor: 4;
 		--size-divisor2: 2.3;
+		--size-divisor3: 2.4;
 	}
 }
 @media (min-width: 330px) {
 	:root {
 		--size-divisor: 3;
 		--size-divisor2: 2.25;
+		--size-divisor3: 2.3;
 	}
 }
 @media (min-width: 470px) {
 	:root {
 		--size-divisor: 2.25;
 		--size-divisor2: 2;
+		--size-divisor3: 2.2;
 	}
 }
 @media (min-width: 530px) {
 	:root {
 		--size-divisor: 2;
 		--size-divisor2: 1.75;
+		--size-divisor3: 2.1;
 	}
 }
 @media (min-width: 630px) {
 	:root {
 		--size-divisor: 1.5;
 		--size-divisor2: 1.5;
+		--size-divisor3: 2;
 	}
 }
 @media (min-width: 768px) {
 	:root {
 		--size-divisor: 1.25;
 		--size-divisor2: 1.25;
+		--size-divisor3: 1.8;
 	}
 }
 @media (min-width: 992px) { 
 	:root {
 		--size-divisor: 1;
 		--size-divisor2: 1;
+		--size-divisor3: 1.6;
 	}
 }
 
@@ -385,7 +393,7 @@ body {
 
 .post h1 {
 	font-family: unscii16;
-	font-size: calc(4em / var(--size-divisor2));
+	font-size: calc(4.5em / var(--size-divisor2));
 	text-align: left;
 	color:#8595a1;
 }
@@ -394,28 +402,28 @@ body {
 	font-family: unscii16;
 	text-align: left;
 	color:#8595a1;
-	font-size: 2.2em;
+	font-size: calc(3.7em / var(--size-divisor3));
 }
 
 .post h3 {
 	font-family: unscii16;
 	font-weight: normal;
 	color:#8595a1;
-	font-size: 1.2em;
+	font-size: calc(2.7em / var(--size-divisor3));
 }
 
 .post ul {
-	padding-left: 0.26em;
+	padding-left: 1.5ch;
 }
 
 .post>ul {
-	padding-left: 0.7em;
+	padding-left: 1.5ch;
 	margin-bottom: 1.3em;
 	margin-top: 1.3em;
 }
 
 .post>ol {
-	padding-left: 1.26em;
+	padding-left: 1.5ch;
 	margin-bottom: 1.3em;
 	margin-top: 1.3em;
 }
