@@ -19,4 +19,4 @@ Answers to some common problems with EMUUROM.
 			* *Dualshock4:* Both Start button and Dpad work, but Dpad is emulated as keyboard arrow key presses, so EMUUROM thinks you're using keyboard. Sigh...
 	* The 8BitDo USB wireless adapter 2 adds Dpad support as well.
 * The game's still not out?!
-  * [Something here might help.](https://www.google.com/search?q=patience+motivational+quotes&sxsrf=AJOqlzWL5fnM2W3uhFFhFCrel5gyUd_Xqg:1679570693566&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5tMK0-PH9AhUG_SoKHes4Az4Q_AUoAXoECAEQAw&biw=1920&bih=942)
+	* [Something here might help.](https://www.google.com/search?q=patience+motivational+quotes&sxsrf=AJOqlzWL5fnM2W3uhFFhFCrel5gyUd_Xqg:1679570693566&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5tMK0-PH9AhUG_SoKHes4Az4Q_AUoAXoECAEQAw&biw=1920&bih=942)
