@@ -2,7 +2,11 @@ url: "https://emuurom.com" # the base hostname & protocol for your site, e.g. ht
 baseurl: "/" # the subpath of your site, e.g. /blog
 title: "EMUUROM" # the name of your site, e.g. ACME Corp.
 description: "The nonviolent creature-scanning metroidvania"
-source: "/"
+twitter_username: borbware
+github_username:  borbware
+theme: minima
+plugins:
+  - jekyll-feed
 lsi: false
 safe: true
 incremental: false
@@ -10,5 +14,6 @@ highlighter: rouge
 gist:
   noscript: false
 kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
   math_engine: mathjax
   syntax_highlighter: rouge

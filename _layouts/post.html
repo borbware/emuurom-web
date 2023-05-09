@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="{{ "/assets/css/emuuromstyle.css" | relative_url }}">
   </head>
   <body>
-		<div class="navbar unscii">
+		<div class="navbar absolute unscii">
 			<ul>
 				<li><a href="https://store.steampowered.com/app/1634360/EMUUROM/">STEAM</a></li>
 				<li><a href="https://borbware.itch.io/emuurom">ITCH.IO</a></li>
@@ -17,6 +17,10 @@
 				<li><a href="/">HOME</a></li>
 			</ul>
 		</div>
-    {{ content }}
+    <div class="unscii content wide post-container">
+      <div class="post">
+        {{ content }}
+      </div>
+    </div>
   </body>
 </html>
