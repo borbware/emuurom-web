@@ -12,7 +12,14 @@ Build presskit:
 .\buildpresskit.ps1
 ```
 
-## Running Jekyll on WSL
+## Installing & running Jekyll on Windows
+
+* Follow [these instructions](https://jekyllrb.com/docs/installation/windows/) to install Ruby
+* `gem install jekyll bundler`
+* `jekyll -v`
+* `jekyll serve`
+
+## Installing Jekyll on WSL (not working atm?!?!)
 
 ```
 sudo apt-get update -y && sudo apt-get upgrade -y
@@ -22,9 +29,10 @@ sudo gem update
 sudo gem install bundler
 ```
 
-If you get errors (as I've done), go back to the start and go through these commands again
+If you get errors (as I've had), go back to the start and go through these commands again
 
 ```
+sudo gem update --system
 sudo gem install jekyll
 ```
 
