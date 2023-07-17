@@ -6,7 +6,7 @@ Install npm package:
 npm install -g presskit
 ```
 
-Build presskit:
+Build presskit: ***(REMOVES OLD PRESSKIT FOLDER!)***
 
 ```
 .\buildpresskit.ps1
