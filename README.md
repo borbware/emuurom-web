@@ -1,6 +1,8 @@
 ## Building a presskit
 
-Install npm package: 
+Easiest to do this on WSL.
+
+Install npm package (needs npm version 12):
 
 ```
 npm install -g presskit
@@ -9,7 +11,7 @@ npm install -g presskit
 Build presskit: ***(REMOVES OLD PRESSKIT FOLDER!)***
 
 ```
-.\buildpresskit.ps1
+bash buildpresskit.sh
 ```
 
 ## Running Jekyll on Windows
