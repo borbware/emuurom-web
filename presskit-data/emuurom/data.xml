@@ -30,7 +30,7 @@
   -->
   <!-- Add as many dates, platforms and prices as needed. -->
   <release-dates>
-    <release-date>2022 or early 2023</release-date>
+    <release-date>202X</release-date>
   </release-dates>
 
   <!--
@@ -52,15 +52,15 @@
   <prices>
     <price>
       <currency>EUR</currency>
-      <value>11,10</value>
+      <value>14,99</value>
     </price>
     <price>
       <currency>USD</currency>
-      <value>13,99</value>
+      <value>15,99</value>
     </price>
     <price>
       <currency>GBP</currency>
-      <value>11,10</value>
+      <value>12,99</value>
     </price>
   </prices>
 
@@ -95,11 +95,11 @@
 
   <!-- Describe your product here. Be brief. -->
   <description>
-    EMUUROM ("eh-moo rom") is an upcoming nonviolent creature-scanning metroidvania. 
+    EMUUROM ("eh-moo-rom") is an upcoming nonviolent creature-scanning exploration platformer, where you document an ancient paradise before it's lost forever. 
+    
+    You are MAIRE ("my-rhe"), a red-haired retrobiologist who's trapped herself in an unknown world, inhabited by mostly peaceful creatures called EMUUROM. 
 
-    You are MAIRE ("my-rhe"), a red-haired retrobiologist willingly trapped in an unknown world, inhabited by mostly peaceful creatures called EMUUROM. You are only equipped with a data-gathering SKANNER' BEAM that you can use to explore the ecosystem.
-
-    Instead of powering up, you have to comprehend the creatures - and use their special abilities to advance! Open up new paths, meet cute creatures, and sleep under the starry sky... but beware: on the horizon, a comet called THE RED INTERLOPER is inching closer, threatening the peaceful world. Overcome the obstacles and master the mysteries, and you might be able to save the species - and yourself.
+    Equipped with a data-gathering SCANNER BEAM, you study the behaviour of the EMUUROM creatures and use the gained knowledge to create new paths forward. Slowly, the machinations of the mythic forest sprites begin to unfold.
   </description>
 
   <!--
@@ -111,7 +111,7 @@
     You can see an example of the `<histories>` block in the company page.
   -->
   <history>
-    EMUUROM is the first game on Steam created with the TIC-80 fantasy console. It started its life as a jam game for Fantasy Console jam 3 in early 2018. The first demo was released on Itch.io in early 2020, and later that year it was a part of the Bundle for Racial Justice and Equality. A new, polished demo was released on Steam in August 2021, and it participated in the Steam Next Fest in October.
+    EMUUROM is created with the TIC-80 fantasy console, an engine with idiosyncratic retro restrictions. EMUUROM is the first TIC-80 game on Steam, and it started its life as a jam game for the Fantasy Console jam 3 in early 2018. The first post-jam demo with a refined concept was released on Itch.io in early 2020, and later that year EMUUROM was a part of the Bundle for Racial Justice and Equality. A new, polished demo was released on Steam in August 2021, and it participated in the Steam Next Fest in October. Ever since, the demo has received updates on Itch and Steam as the game has evolved, and I've documented the development process in my devlog on Itch. In 2023, EMUUROM was featured in the Busan Indie Connect festival, Cerebral Puzzle Showcase, Games Gathering 2023 Kyiv and DreamHack Beyond Summer Indie Showcase.
   </history>
 
   <!-- ## Features -->
@@ -122,22 +122,22 @@
   -->
   <features>
     <feature>
-      A lush interconnected world full of surprises and mysteries
+      Emphasis on exploration and discovery: Explore a dense, interconnected land brimming with surprises around every corner
     </feature>
     <feature>
-      Find your way forward with the powers of cute creatures
+      No hand-holding: It's up to your own wits to figure out the workings of the world
     </feature>
     <feature>
-      Scan your surroundings for secret paths and hidden critters
+      Level up your brain: There are no power-ups, so you have to utilize the systemic behaviour of the EMUUROM creatures to get around!
     </feature>
     <feature>
-      A bangin' chiptune soundtrack
+      Past findings always at your fingertips: Document your findings to the EMUUDEX!
     </feature>
     <feature>
-      Emphasis on exploration and discovery
+      I've heard people have really liked the chiptune soundtrack?!
     </feature>
     <feature>
-      6+ hours of play (I think?!)
+      At least 10 hours of gameplay (depends on how quickly you figure things out...)
     </feature>
   </features>
 
@@ -230,7 +230,7 @@
     </quote>
     <quote>
       <description>
-        The energy of the game is certainly different from other titles. Cozier and inquisitive, it appeals to a more academic mindset that adores the surprise that video games can deliver. It’s a medium that can be anything that you can possibly fathom. Emuurom embodies this at its core
+        The energy of the game is certainly different from other titles. Cozier and inquisitive, it appeals to a more academic mindset that adores the surprise that video games can deliver. It's a medium that can be anything that you can possibly fathom. Emuurom embodies this at its core
       </description>
       <name>The Visualist's Veranda</name>
       <website>Thoughts on Emuurom (Steam Next Fest 2022 Demo)</website>
