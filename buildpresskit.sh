@@ -1,6 +1,6 @@
+rm -r presskit
 cd presskit-data
 presskit build
-rm -r ../presskit
 mv build ../presskit
 cd ..
 
