@@ -21,10 +21,19 @@ Before actually starting the playtest, get your recording setup ready:
 * an okay-ish computer with Windows, Mac or Linux
 * a **microphone** to record your voice
 * a **controller** or a **keyboard** to play the game
-* the **development build** of EMUUROM
-  * Download it at [emuurom.com/devbuild](https://www.emuurom.com/devbuild)
+* the **playtest build** of EMUUROM (Instructions below)
 
 The instructions below describe how to record your computer screen. If that's no issue, jump into the next section: [Let's get started](#lets-get-started).
+
+---
+
+### Activate Playtest build on Steam
+
+* Ask for a playtest key from Borb if you don't have it already
+* On Steam desktop app's *Library* view, click *Add a Game* on the bottom left corner
+* Choose *Activate a product on Steam...*
+* Paste your key
+* That's it! The playtest version will be playable until some date before the release.
 
 ---
 
