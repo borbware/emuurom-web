@@ -95,9 +95,9 @@
 
   <!-- Describe your product here. Be brief. -->
   <description>
-    <i>EMUUROM</i> is a nonviolent creature-scanning exploration platformer, where you document an ancient paradise before it's lost forever.
+    EMUUROM is a nonviolent creature-scanning exploration platformer, where you document an ancient paradise before it's lost forever.
 
-    EMUUROM is a discovery game ("metroidbrainia") in the vein of <i>Animal Well</i>, <i>Void Stranger</i> and <i>Tunic</i>, where
+    EMUUROM is a discovery game ("metroidbrainia") in the vein of Animal Well, Void Stranger and Tunic, where
     you study the behaviour of the EMUUROM creatures with a scanner beam and use the gained knowledge to create new paths forward. 
     
     As you decipher ancient poems and gain a better understanding on the world around you, the machinations of the mythic forest sprites begin to unfold.
@@ -113,7 +113,7 @@
     You can see an example of the `<histories>` block in the company page.
   -->
   <history>
-    EMUUROM is created with the <i>TIC-80</i> fantasy console, an engine with idiosyncratic retro restrictions, like <i>Pico-8</i>.
+    EMUUROM is created with the TIC-80 fantasy console, an engine with idiosyncratic retro restrictions, like Pico-8.
     
     EMUUROM is the biggest TIC-80 game on Steam, and it started its life as a jam game for the Fantasy Console jam 3 in early 2018.
     
@@ -121,7 +121,7 @@
     
     A new demo was released on Steam in Fall 2021 for the Steam Next Fest.
     
-    I've documented the development process and new demo updates in my <a href="https://borbware.itch.io/emuurom/devlog">Itch.io devlog</a>.
+    I've documented the development process and new demo updates in my Itch.io devlog.
     
     EMUUROM has been featured in multiple events, including Busan Indie Connect, Pocket Gamer Connects and Cerebral Puzzle Showcase.
   </history>
