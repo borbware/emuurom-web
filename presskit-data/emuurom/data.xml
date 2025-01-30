@@ -173,18 +173,6 @@
         5bApoKzzHMI
       </youtube>
     </trailer>
-    <trailer>
-      <name>
-        Trailer 2021
-      </name>
-      <youtube>
-        -2ovAcsnazQ
-      </youtube>
-    </trailer>
-    <trailer>
-      <name>Gameplay video (no commentary)</name>
-      <youtube>Hiw7MXlM1i0</youtube>
-    </trailer>
   </trailers>
 
   <!-- ## Widgets -->
@@ -337,17 +325,8 @@
       <role>Code, Graphics, Design, Music</role>
     </credit>
     <credit>
-      <person>Pjootrz</person>
-      <role>Playtesting</role>
-    </credit>
-    <credit>
-      <person>Elliot Herriman</person>
-      <role>Narrative and language consulting</role>
-      <website>https://twitter.com/elliotherriman</website>
-    </credit>
-    <credit>
       <person>Nesbox and collaborators</person>
-      <role>TIC-80 tiny computer</role>
+      <role>TIC-80 fantasy console</role>
       <website>https://tic80.com</website>
     </credit>
   </credits>
@@ -363,9 +342,9 @@
       <mail>borbware@gmail.com</mail>
     </contact>
     <contact>
-      <name>Twitter</name>
+      <name>Bluesky</name>
       <link>
-        https://twitter.com/borbware
+        https://bsky.app/profile/borbware.itch.io
       </link>
     </contact>
     <contact>
