@@ -52,15 +52,15 @@
   <prices>
     <price>
       <currency>EUR</currency>
-      <value>14,99</value>
-    </price>
-    <price>
-      <currency>USD</currency>
       <value>15,99</value>
     </price>
     <price>
+      <currency>USD</currency>
+      <value>17,99</value>
+    </price>
+    <price>
       <currency>GBP</currency>
-      <value>12,99</value>
+      <value>13,50</value>
     </price>
   </prices>
 
@@ -96,12 +96,14 @@
   <!-- Describe your product here. Be brief. -->
   <description>
     EMUUROM is a nonviolent creature-scanning exploration platformer, where you document an ancient paradise before it's lost forever.
+    In a sense, EMUUROM is a rule-discovery game ("metroidbrainia") in the vein of Animal Well, Void Stranger and Tunic:
+    you study the behaviour of the EMUUROM creatures with a unique SCANNER BEAM mechanic and use the gained knowledge to create new paths forward.
+    To aid in navigation, the scanner also reveals hidden pathways (something akin to bombing tiles in Zelda 1, but much faster).
+    The environmental puzzles range from obvious to obscure, with a plethora of secrets hidden in plain sight:
+    this creates a multi-layered experience for many kinds of players.
+    As you gain a better understanding on the world around you, the hushed history of the EMUUROM creatures begins to unfold...
 
-    EMUUROM is a discovery game ("metroidbrainia") in the vein of Animal Well, Void Stranger and Tunic, where
-    you study the behaviour of the EMUUROM creatures with a scanner beam and use the gained knowledge to create new paths forward. 
-    
-    As you decipher ancient poems and gain a better understanding on the world around you, the machinations of the mythic forest sprites begin to unfold.
-  
+
   </description>
 
   <!--
@@ -113,17 +115,17 @@
     You can see an example of the `<histories>` block in the company page.
   -->
   <history>
-    EMUUROM is created with the TIC-80 fantasy console, an engine with idiosyncratic retro restrictions, like Pico-8.
+    EMUUROM is created with the TIC-80 fantasy console, a game engine with idiosyncratic retro restrictions, like Pico-8.
     
-    EMUUROM is the biggest TIC-80 game on Steam, and it started its life as a jam game for the Fantasy Console jam 3 in early 2018.
+    EMUUROM's demo was the first TIC-80 game on Steam, and it started its life as a jam game for the Fantasy Console jam 3 in early 2018.
     
-    The first post-jam demo was released on Itch.io in 2020, and later that year EMUUROM was a part of the Bundle for Racial Justice and Equality.
+    The first post-jam demo was released on Itch.io in 2020, and later that year, the demo was a part of the Bundle for Racial Justice and Equality.
     
     A new demo was released on Steam in Fall 2021 for the Steam Next Fest.
     
-    I've documented the development process and new demo updates in my Itch.io devlog.
+    I've documented the development process and new demo updates in my Itch.io devlog (link at the bottom).
     
-    EMUUROM has been featured in multiple events, including Busan Indie Connect, Pocket Gamer Connects and Cerebral Puzzle Showcase.
+    EMUUROM has been featured in multiple events, including Busan Indie Connect, Nordic Game Conference, Pocket Gamer Connects and multiple Cerebral Puzzle Showcases.
   </history>
 
   <!-- ## Features -->
@@ -134,22 +136,22 @@
   -->
   <features>
     <feature>
-      Emphasis on exploration and discovery: Explore a dense, interconnected land brimming with surprises around every corner
+      Emphasis on exploration and discovery: Explore a dense, interconnected land brimming with surprises around every corner!
     </feature>
     <feature>
-      No hand-holding: It's up to your own wits to figure out the workings of the world
+      No hand-holding: It's up to your own wits to figure out the workings of the world.
     </feature>
     <feature>
-      Level up your brain: There are no power-ups, so you have to utilize the systemic behaviour of the EMUUROM creatures to get around!
+      Level up your brain: There are (almost) no power-ups, so you have to utilize the systemic behaviour of the EMUUROM creatures to get around!
     </feature>
     <feature>
-      Past findings always at your fingertips: Document your findings to the EMUUDEX!
+      Past findings always at your fingertips: Document your findings to the EMUUDEX bestiary, and refer to them at any time.
     </feature>
     <feature>
-      I've heard people have really liked the chiptune soundtrack?!
+      ...I've heard people have liked the chiptune soundtrack? Idk maybe it's good
     </feature>
     <feature>
-      At least 10 hours of gameplay (depends on how quickly you figure things out...)
+      10-30 hours of gameplay with lots of secrets to uncover
     </feature>
   </features>
 
@@ -348,9 +350,9 @@
       </link>
     </contact>
     <contact>
-      <name>Web</name>
+      <name>Itch.io devlog</name>
       <link>
-        http://www.emuurom.com
+        https://borbware.itch.io/emuurom/devlog
       </link>
     </contact>
   </contacts>
