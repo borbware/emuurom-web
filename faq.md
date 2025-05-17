@@ -20,3 +20,10 @@ Answers to some common problems with EMUUROM.
 	* The 8BitDo USB wireless adapter 2 adds Dpad support as well.
 * The game's still not out?!
 	* [Something here might help.](https://www.google.com/search?q=patience+motivational+quotes&sxsrf=AJOqlzWL5fnM2W3uhFFhFCrel5gyUd_Xqg:1679570693566&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj5tMK0-PH9AhUG_SoKHes4Az4Q_AUoAXoECAEQAw&biw=1920&bih=942)
+* I want wallpapers!
+  * Sure!
+    * ![4K landscape](images/wallpapers/emuurom-wallpaper-4k.png)
+    * ![4K portrait](images/wallpapers/emuurom-wallpaper-4k-portrait.png)
+    * ![4K portrait, water](images/wallpapers/emuurom-wallpaper-4k-portrait-water.png)
+    * ![supertall portrait](images/wallpapers/emuurom-wallpaper-supertall-portrait.png)
+    * ![supertall portrait, water](images/wallpapers/emuurom-wallpaper-supertall-portrait-water.png)
