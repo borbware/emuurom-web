@@ -203,6 +203,9 @@ body {
 	color: #f4f4f4;
 }
 
+.content img {
+  width: 100%;
+}
 
 .parallaxContainer {
 	width: 100%;
