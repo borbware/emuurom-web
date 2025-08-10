@@ -95,4 +95,5 @@ Have you ever wanted to join a game jam abroad—maybe the biggest Polish game j
 3. *(Required if you got the scholarship)* Remember to write your travel report for FGJ in time so you don't have to do it right before the deadline. 
 
 I to by było na tyle! (That's all, folks!)
+
 ![](thats-all-folks.gif)
