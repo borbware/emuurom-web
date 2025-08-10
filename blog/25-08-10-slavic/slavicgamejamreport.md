@@ -24,22 +24,22 @@ Have you ever wanted to join a game jam abroad—maybe the biggest Polish game j
 5. Travel to Warsaw by your chosen means of travel. 
 	* ***Sidenote:*** Most likely, you will ***not*** need cash during the trip.
 	- ***Sidenote:*** For easy acquisition of public transport tickets, install the *Jakdojade* app. A ticket can be bought there in advance, and it is only used when validated by scanning a QR code in a bus/tram.
-6. Arrive in Warsaw a few days before the event, so you can join a local gamedev club [Koło Naukowe Twórców Gier Polygon](https://www.kntgpolygon.pl/) meetup at the gaming-themed H40S bar on Wednesday. You might find potential teammates already there, and more importantly, learn crucial info about local inside jokes. Be attentive the next day at 21:37! ![](h40s.jpg)
+6. Arrive in Warsaw a few days before the event, so you can join a local gamedev club [**Koło Naukowe Twórców Gier Polygon**](https://www.kntgpolygon.pl/) meetup at the gaming-themed H40S bar on Wednesday. You might find potential teammates already there, and more importantly, learn crucial info about local inside jokes. Be attentive the next day at 21:37! ![](h40s.jpg)
 7. Join the preparty on Thursday at VooDoo Club with your plus one. The venue is split to a music and a non-music room, which makes socializing easier than in most gamedev bar evenings—if you didn't find teammates the day before, now's a new chance! At 21:37, witness the singalong of *Barka*, the favourite song of the Polish pope John Paul II. After that, dance your socks off to the eurobeat remix of *Säkkijärven polkka*.
 8. *(Optional)* For the **authentic** Polish experience, go to the nearby gas station for a late night hot dog after the party.
 
 ## Friday, August 1
 
 1. Arrive at Rektorska 4, the jam site of SGJ, around noon. ![](rektorska.jpg)
-2. Get your cool new t-shirt!![](tshirt.jpg) 
-3. Grab a sandwich!![](sandwiches.jpg)
+2. Get your cool new t-shirt! ![](tshirt.jpg) 
+3. Grab a sandwich! ![](sandwiches.jpg)
 4. Find the teammates you already acquired (or find new ones)! Thanks to socializing with volunteers earlier, you might end up in a big team of six with Mienso, Rafał & Michał from Poland and Ozzy & Zey from Turkey.
 5. At 13:00, join the jam kickoff where the theme is revealed (it is *Symbiosis*).
 6. Get to know your teammates! As a team, choose your game specifications based on your team's skills, for instance a 2D game with Godot.
 7. Take into account that if some of your teammates are also SGJ volunteers, some of their time will be used up by their duties. (In our case, it was Mienso and Ozzy.)
 8. Start brainstorming! Having a lot of team members with lots of ideas is good, but at some point, you will have to start narrowing them down (the ideas, not the members). ![](jamming-day-1.jpg)
 9. At 14:00, join Radosław Smyk's game ideation lecture. You will be reminded of the important lesson that generating ideas is only the beginning—you need to start *answering questions about your game design* to narrow down what kind of game you're making. (See the slides below!) ![](game-idea-lecture.png)
-10. At 15:00, have ==a== lunch! ![](lunch-fri.jpg)
+10. At 15:00, have a lunch! ![](lunch-fri.jpg)
 11. At 17:00, do not be alarmed when everyone on the streets stops in their tracks and cars start honking for one minute straight: It is a tradition of the [Warsaw Uprising Memorial Day](https://en.wikipedia.org/wiki/Warsaw_Uprising#Warsaw_Uprising_Memorial_Day).
 12. At 20:00, have a dinner (it's pizza! Catering in this jam is plentiful to say the least.) ![](pizza.jpg)
 13. Keep working on your game until you have some basic mechanics implemented. If you happened to go with an idea of considerable technical complexity, realise that you might have to cut down many planned mechanics at some point. ![](day-1-progress.png)
