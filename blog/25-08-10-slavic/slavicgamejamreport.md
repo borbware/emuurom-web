@@ -39,7 +39,7 @@ Have you ever wanted to join a game jam abroad — maybe the biggest Polish game
 7. Take into account that if some of your teammates are also SGJ volunteers, some of their time will be used up by their duties. (In our case, it was Mienso and Ozzy.)
 8. Start brainstorming! Having a lot of team members with lots of ideas is good, but at some point, you will have to start narrowing them down (the ideas, not the members). ![](jamming-day-1.jpg)
 9. At 14:00, join Radosław Smyk's game ideation lecture. You will be reminded of the important lesson that generating ideas is only the beginning — you need to start *answering questions about your game design* to narrow down what kind of game you're making. (See the slides below!) ![](game-idea-lecture.jpg)
-10. At 15:00, have a lunch! ![](lunch-fri.jpg)
+10. At 15:00, have lunch! ![](lunch-fri.jpg)
 11. At 17:00, do not be alarmed when everyone on the streets stops in their tracks and cars start honking for one minute straight: It is a tradition of the [Warsaw Uprising Memorial Day](https://en.wikipedia.org/wiki/Warsaw_Uprising#Warsaw_Uprising_Memorial_Day).
 12. At 20:00, have a dinner (it's pizza! Catering in this jam is plentiful to say the least.) ![](pizza.jpg)
 13. Keep working on your game until you have some basic mechanics implemented. If you happened to go with an idea of considerable technical complexity, realise that you might have to cut down many planned mechanics at some point. ![](day-1-progress.png)
@@ -50,7 +50,7 @@ Have you ever wanted to join a game jam abroad — maybe the biggest Polish game
 1. Arrive (or wake up) at the jam site early enough. You did arrive early enough, right...?
 2. Have a sandwich and start jamming. In a 48h jam, the second jam day is when the most progress should be made (but don't panic if your game is still unfinished by the end of the day). ![](sandwiches-mienso.jpg)
 3. Realise you arrived too late to attend the testing & localization lecture at 12:00. Oops!
-4. At 14:00, have a lunch!
+4. At 14:00, have lunch!
 5. *(Optional)* At the jam site, there are three rooms full of game jammers (150 to be exact!), so remember to visit other rooms to see how others are doing!
 6. *(Optional)* Join the jam-adjacent Hyde Park activities (board games, playing games from previous SGJs, arranging pizza boxes creatively, karaoke...)
 7. At 19:00, attend Marta Fijak's relatable lecture about *releasing your game without dying in the process*. ![](gamedev.jpg) *(Pictured: A game developer in the process of releasing their game.)*
