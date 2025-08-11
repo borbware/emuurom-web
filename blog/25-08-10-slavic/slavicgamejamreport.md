@@ -10,7 +10,7 @@ permalink: /sgj2025/
 
 ***Cześć!*** I'm Borb, an Oulu-based indie game developer (wishlist [EMUUROM](https://store.steampowered.com/app/1634360/EMUUROM/), etc, etc) and game jam enthusiast (join [Retro Game Jam 2025](https://itch.io/jam/retro-game-jam-2025) in Oulu!!).
 
-Have you ever wanted to join a game jam abroad—maybe the biggest Polish game jam, the yearly [Slavic Game Jam](https://slavicgamejam.org/) in Warsaw—but don't know where to start? You're in luck: this is my personal-experience-based guide on *How to attend Slavic Game Jam 2025!*
+Have you ever wanted to join a game jam abroad — maybe the biggest Polish game jam, the yearly [Slavic Game Jam](https://slavicgamejam.org/) in Warsaw — but don't know where to start? You're in luck: this is my personal-experience-based guide on *How to attend Slavic Game Jam 2025!*
 * ***Note:*** If you happen to read this *after* SGJ 2025, the guide should be somewhat applicable for future SGJs as well.
 
 ### Pre-jam preparations
@@ -25,7 +25,7 @@ Have you ever wanted to join a game jam abroad—maybe the biggest Polish game j
 	* ***Sidenote:*** Most likely, you will ***not*** need cash during the trip.
 	- ***Sidenote:*** For easy acquisition of public transport tickets, install the *Jakdojade* app. A ticket can be bought there in advance, and it is only used when validated by scanning a QR code in a bus/tram.
 6. Arrive in Warsaw a few days before the event, so you can join a local gamedev club [**Koło Naukowe Twórców Gier Polygon**](https://www.kntgpolygon.pl/) meetup at the gaming-themed H40S bar on Wednesday. You might find potential teammates already there, and more importantly, learn crucial info about local inside jokes. Be attentive the next day at 21:37! ![](h40s.jpg)
-7. Join the preparty on Thursday at VooDoo Club with your plus one. The venue is split to a music and a non-music room, which makes socializing easier than in most gamedev bar evenings—if you didn't find teammates the day before, now's a new chance! At 21:37, witness the singalong of *Barka*, the favourite song of the Polish pope John Paul II. After that, dance your socks off to the eurobeat remix of *Säkkijärven polkka*.
+7. Join the preparty on Thursday at VooDoo Club with your plus one. The venue is split to a music and a non-music room, which makes socializing easier than in most gamedev bar evenings — if you didn't find teammates the day before, now's a new chance! At 21:37, witness the singalong of *Barka*, the favourite song of the Polish pope John Paul II. After that, dance your socks off to the eurobeat remix of *Säkkijärven polkka*.
 8. *(Optional)* For the **authentic** Polish experience, go to the nearby gas station for a late night hot dog after the party.
 
 ### Friday, August 1
@@ -38,7 +38,7 @@ Have you ever wanted to join a game jam abroad—maybe the biggest Polish game j
 6. Get to know your teammates! As a team, choose your game specifications based on your team's skills, for instance a 2D game with Godot.
 7. Take into account that if some of your teammates are also SGJ volunteers, some of their time will be used up by their duties. (In our case, it was Mienso and Ozzy.)
 8. Start brainstorming! Having a lot of team members with lots of ideas is good, but at some point, you will have to start narrowing them down (the ideas, not the members). ![](jamming-day-1.jpg)
-9. At 14:00, join Radosław Smyk's game ideation lecture. You will be reminded of the important lesson that generating ideas is only the beginning—you need to start *answering questions about your game design* to narrow down what kind of game you're making. (See the slides below!) ![](game-idea-lecture.jpg)
+9. At 14:00, join Radosław Smyk's game ideation lecture. You will be reminded of the important lesson that generating ideas is only the beginning — you need to start *answering questions about your game design* to narrow down what kind of game you're making. (See the slides below!) ![](game-idea-lecture.jpg)
 10. At 15:00, have a lunch! ![](lunch-fri.jpg)
 11. At 17:00, do not be alarmed when everyone on the streets stops in their tracks and cars start honking for one minute straight: It is a tradition of the [Warsaw Uprising Memorial Day](https://en.wikipedia.org/wiki/Warsaw_Uprising#Warsaw_Uprising_Memorial_Day).
 12. At 20:00, have a dinner (it's pizza! Catering in this jam is plentiful to say the least.) ![](pizza.jpg)
@@ -90,7 +90,7 @@ Have you ever wanted to join a game jam abroad—maybe the biggest Polish game j
 
 ### After the jam
 
-1. *(Optional)* Enjoy your stay in Warsaw with your travel partner for as long as you like—if you stay until the next Wednesday, you can go to the KNTG Polygon meetup for a second time!
+1. *(Optional)* Enjoy your stay in Warsaw with your travel partner for as long as you like — if you stay until the next Wednesday, you can go to the KNTG Polygon meetup for a second time!
 2. *(Optional)* Remember to fill the jam feedback form.
 3. *(Required if you got the scholarship)* Remember to write your travel report for FGJ in time so you don't have to do it right before the deadline. 
 
