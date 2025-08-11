@@ -33,7 +33,7 @@ Have you ever wanted to join a game jam abroad — maybe the biggest Polish game
 1. Arrive at Rektorska 4, the jam site of SGJ, around noon. ![](rektorska.jpg)
 2. Get your cool new t-shirt! ![](tshirt.jpg) 
 3. Grab a sandwich! ![](sandwiches.jpg)
-4. Find the teammates you already acquired (or find new ones)! Thanks to socializing with volunteers earlier, you might end up in a big team of six with Mienso, Rafał & Michał from Poland and Ozzy & Zey from Turkey.
+4. Find the teammates you already acquired (or find new ones)! Thanks to socializing with volunteers earlier, you might end up in a big team of six with **Mienso**, **Rafał** & **Michał** from Poland and **Ozzy** & **Zey** from Turkey.
 5. At 13:00, join the jam kickoff where the theme is revealed (it is *Symbiosis*).
 6. Get to know your teammates! As a team, choose your game specifications based on your team's skills, for instance a 2D game with Godot.
 7. Take into account that if some of your teammates are also SGJ volunteers, some of their time will be used up by their duties. (In our case, it was Mienso and Ozzy.)
