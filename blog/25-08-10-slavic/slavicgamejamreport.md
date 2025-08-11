@@ -8,12 +8,12 @@ permalink: /sgj2025/
 
 ![](warsaw-skyline.jpg)
 
-Cześć! I'm Borb, an Oulu-based indie game developer (wishlist [EMUUROM](https://store.steampowered.com/app/1634360/EMUUROM/), etc, etc) and game jam enthusiast (join [Retro Game Jam 2025](https://itch.io/jam/retro-game-jam-2025) in Oulu!!).
+***Cześć!*** I'm Borb, an Oulu-based indie game developer (wishlist [EMUUROM](https://store.steampowered.com/app/1634360/EMUUROM/), etc, etc) and game jam enthusiast (join [Retro Game Jam 2025](https://itch.io/jam/retro-game-jam-2025) in Oulu!!).
 
 Have you ever wanted to join a game jam abroad—maybe the biggest Polish game jam, the yearly [Slavic Game Jam](https://slavicgamejam.org/) in Warsaw—but don't know where to start? You're in luck: this is my personal-experience-based guide on *How to attend Slavic Game Jam 2025!*
 * ***Note:*** If you happen to read this *after* SGJ 2025, the guide should be somewhat applicable for future SGJs as well.
 
-## Pre-jam preparations
+### Pre-jam preparations
 
 1. *a)* Buy the SGJ ticket or *b)* apply for the Slavic Game Jam scholarship, courtesy of Finnish Game Jam. If you're chosen as the ambassador, you get partial coverage for travel costs and a jam ticket in exchange for a travel report on the jam (it's the one you're reading right now.)
 	* *(Optional)* Take someone to travel with! It's more fun that way, and as a bonus, you have someone to watch your luggage while you go to the bathroom at the airport.
@@ -28,7 +28,7 @@ Have you ever wanted to join a game jam abroad—maybe the biggest Polish game j
 7. Join the preparty on Thursday at VooDoo Club with your plus one. The venue is split to a music and a non-music room, which makes socializing easier than in most gamedev bar evenings—if you didn't find teammates the day before, now's a new chance! At 21:37, witness the singalong of *Barka*, the favourite song of the Polish pope John Paul II. After that, dance your socks off to the eurobeat remix of *Säkkijärven polkka*.
 8. *(Optional)* For the **authentic** Polish experience, go to the nearby gas station for a late night hot dog after the party.
 
-## Friday, August 1
+### Friday, August 1
 
 1. Arrive at Rektorska 4, the jam site of SGJ, around noon. ![](rektorska.jpg)
 2. Get your cool new t-shirt! ![](tshirt.jpg) 
@@ -38,14 +38,14 @@ Have you ever wanted to join a game jam abroad—maybe the biggest Polish game j
 6. Get to know your teammates! As a team, choose your game specifications based on your team's skills, for instance a 2D game with Godot.
 7. Take into account that if some of your teammates are also SGJ volunteers, some of their time will be used up by their duties. (In our case, it was Mienso and Ozzy.)
 8. Start brainstorming! Having a lot of team members with lots of ideas is good, but at some point, you will have to start narrowing them down (the ideas, not the members). ![](jamming-day-1.jpg)
-9. At 14:00, join Radosław Smyk's game ideation lecture. You will be reminded of the important lesson that generating ideas is only the beginning—you need to start *answering questions about your game design* to narrow down what kind of game you're making. (See the slides below!) ![](game-idea-lecture.png)
+9. At 14:00, join Radosław Smyk's game ideation lecture. You will be reminded of the important lesson that generating ideas is only the beginning—you need to start *answering questions about your game design* to narrow down what kind of game you're making. (See the slides below!) ![](game-idea-lecture.jpg)
 10. At 15:00, have a lunch! ![](lunch-fri.jpg)
 11. At 17:00, do not be alarmed when everyone on the streets stops in their tracks and cars start honking for one minute straight: It is a tradition of the [Warsaw Uprising Memorial Day](https://en.wikipedia.org/wiki/Warsaw_Uprising#Warsaw_Uprising_Memorial_Day).
 12. At 20:00, have a dinner (it's pizza! Catering in this jam is plentiful to say the least.) ![](pizza.jpg)
 13. Keep working on your game until you have some basic mechanics implemented. If you happened to go with an idea of considerable technical complexity, realise that you might have to cut down many planned mechanics at some point. ![](day-1-progress.png)
 14. After calling it a day, have a good rest while you still can!
 
-## Saturday, August 2
+### Saturday, August 2
 
 1. Arrive (or wake up) at the jam site early enough. You did arrive early enough, right...?
 2. Have a sandwich and start jamming. In a 48h jam, the second jam day is when the most progress should be made (but don't panic if your game is still unfinished by the end of the day). ![](sandwiches-mienso.jpg)
@@ -61,7 +61,7 @@ Have you ever wanted to join a game jam abroad—maybe the biggest Polish game j
 12. Assign Mienso on a few issues before calling it a day so he knows what to work on during his volunteer night shift. ![](day-2-progress.png)
 13. Go to sleep and do not count how many hours of sleep you have ahead of you.
 
-## Sunday, August 3
+### Sunday, August 3
 
 1. Wake up MUCH earlier than yesterday so you have time to transform your prototype into an actual playable game.
 2. Go to the jam site, eat breakfast, and start jamming furiously. Do not count how many hours there are left until the deadline at 13:30.
@@ -88,12 +88,12 @@ Have you ever wanted to join a game jam abroad—maybe the biggest Polish game j
 23. Join the afterparty in H40S! Remember to eat beforehand because there won't be enough pizzas for everyone. The attendance can surprise the organizers!
 24. Talk with the organizers in the afterparty and thank them for a mostly very well organized jam, as there only were a few hiccups on the final day.
 
-## After the jam
+### After the jam
 
 1. *(Optional)* Enjoy your stay in Warsaw with your travel partner for as long as you like—if you stay until the next Wednesday, you can go to the KNTG Polygon meetup for a second time!
 2. *(Optional)* Remember to fill the jam feedback form.
 3. *(Required if you got the scholarship)* Remember to write your travel report for FGJ in time so you don't have to do it right before the deadline. 
 
-I to by było na tyle! (That's all, folks!)
+***I to by było na tyle!*** (That's all, folks!)
 
 ![](thats-all-folks.gif)
