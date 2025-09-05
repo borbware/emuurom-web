@@ -92,7 +92,7 @@ And you're good to go!
 
 Start the game, and play for as long as you like, in a playstyle that suits you. Take as many breaks from recording as you need - you don't have to run from start to finish on one sitting.
 
-The game will tell you when there's nothing more to be found, but you can stop playtesting earlier if you feel like it. Also, if you're completely stuck and have no idea where to go next, you can contact me for assistance.
+You will know when you've reached the end, but you can stop playtesting earlier if you feel like it. Also, if you're completely stuck and have no idea where to go next, just contact me for assistance.
 
 Some general tips for making the most out of the playtesting:
 
