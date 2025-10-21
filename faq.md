@@ -10,6 +10,7 @@ Answers to some common problems with EMUUROM.
 
 * Where are the save files located?
 	* Windows: `%APPDATA%\com.nesbox.tic\TIC-80\.local`
+	* MacOS: `~/Library/Application Support/com.nesbox.tic/TIC-80/.local`
 * PS5 Controller Dpad and Start button do not work
 	* Steam version: Go to *View > Settings > Controller > General Controller Settings* and select PlayStation Configuration Support.
 	* Itch.io version:
