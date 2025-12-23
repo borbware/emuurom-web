@@ -14,16 +14,16 @@
   <socials>
     <social>
       <name>
-        Twitter (@borbware)
+        Bluesky (@borbware.itch.io)
       </name>
       <link>
-        https://www.twitter.com/borbware
+        https://bsky.app/profile/borbware.itch.io
       </link>
     </social>
   </socials>
 
   <description>
-    I am Borb. I make dreamy little broken worlds.
+    I am Borb. I am a solo indie making colossal cryptic worlds with tools more suited for far smaller games!
   </description>
 
   <!-- Choose between a single block: -->
@@ -44,18 +44,10 @@
   <trailers>
     <trailer>
       <name>
-        EMUUROM story trailer 2022
+        EMUUROM Thinky Direct trailer 2025
       </name>
       <youtube>
-        5bApoKzzHMI
-      </youtube>
-    </trailer>
-    <trailer>
-      <name>
-        EMUUROM trailer 2021
-      </name>
-      <youtube>
-        -2ovAcsnazQ
+        3iTVKUJ_peI
       </youtube>
     </trailer>
   </trailers>
@@ -116,10 +108,10 @@
     </contact>
     <contact>
       <name>
-        Twitter
+        Bluesky
       </name>
       <link>
-        https://www.twitter.com/borbware
+        https://bsky.app/profile/borbware.itch.io
       </link>
     </contact>
   </contacts>

@@ -30,7 +30,7 @@
   -->
   <!-- Add as many dates, platforms and prices as needed. -->
   <release-dates>
-    <release-date>202X</release-date>
+    <release-date>2026</release-date>
   </release-dates>
 
   <!--
@@ -52,15 +52,15 @@
   <prices>
     <price>
       <currency>EUR</currency>
-      <value>15,99</value>
+      <value>15,99 (pending)</value>
     </price>
     <price>
       <currency>USD</currency>
-      <value>17,99</value>
+      <value>17,99 (pending)</value>
     </price>
     <price>
       <currency>GBP</currency>
-      <value>13,50</value>
+      <value>13,50 (pending)</value>
     </price>
   </prices>
 
@@ -124,7 +124,7 @@
     
     I've documented the development process and new demo updates in my Itch.io devlog (link at the bottom).
     
-    EMUUROM has been featured in multiple events, including Busan Indie Connect, Nordic Game Conference, Pocket Gamer Connects and multiple Cerebral Puzzle Showcases.
+    EMUUROM has been featured in multiple events, including Thinky Direct 2025, Busan Indie Connect, Nordic Game Conference, Pocket Gamer Connects and multiple Cerebral Puzzle Showcases.
   </history>
 
   <!-- ## Features -->
