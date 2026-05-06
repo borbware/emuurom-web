@@ -14,6 +14,12 @@ Build presskit: ***(REMOVES OLD PRESSKIT FOLDER!)***
 bash buildpresskit.sh
 ```
 
+On laptop (:D):
+
+```
+.\buildpresskit.ps1
+```
+
 ## Running Jekyll on Windows
 
 Follow [these instructions](https://jekyllrb.com/docs/installation/windows/) to install Ruby. Then,
