@@ -14,23 +14,17 @@
     If you have one or many publishers for this product, you can add them here.
     The `<based-in>` and `<website>` tags are optional.
   -->
-  <!--
   <partners>
     <partner>
       <type>Publisher</type>
-      <title>Pixelnest Studio</title>
-      <website>https://pixelnest.io/</website>
-      <based-in>Rennes, France</based-in>
-    </partner>
-    <partner>
-      <type>Distributor</type>
-      <title>Pizza Oven LLC</title>
+      <title>Coyote Time Publishing</title>
+      <website>https://coyotetimepublishing.com/</website>
+      <based-in>Finland</based-in>
     </partner>
   </partners>
-  -->
   <!-- Add as many dates, platforms and prices as needed. -->
   <release-dates>
-    <release-date>2026</release-date>
+    <release-date>28.5.2026</release-date>
   </release-dates>
 
   <!--
@@ -52,15 +46,11 @@
   <prices>
     <price>
       <currency>EUR</currency>
-      <value>15,99 (pending)</value>
+      <value>12,49 (pending)</value>
     </price>
     <price>
       <currency>USD</currency>
-      <value>17,99 (pending)</value>
-    </price>
-    <price>
-      <currency>GBP</currency>
-      <value>13,50 (pending)</value>
+      <value>12,49 (pending)</value>
     </price>
   </prices>
 
